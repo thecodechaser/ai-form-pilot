@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Canvas - AI Agent Builder",
-  description: "From idea to AI agent in minutes. A developer screening assignment built with Next.js.",
+  title: "AI Form Pilot",
+  description: "From idea to AI agent in minutes.",
   icons: {
     icon: [
       {
